@@ -8,7 +8,7 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 
 ## Course Curriculum
 
-### Day 1: Node.js Fundamentals & Environment Setup
+### Node.js Fundamentals & Environment Setup
 
 #### Core Node.js Concepts
 - What is Node.js and V8 engine
@@ -41,7 +41,7 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 - Scripts and automation
 - Understanding node_modules and package-lock.json
 
-### Day 2: HTTP Server & Asynchronous Programming
+### HTTP Server & Asynchronous Programming
 
 #### HTTP Server Fundamentals
 - HTTP protocol basics
@@ -75,7 +75,7 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 - Console debugging strategies
 - Nodemon and development workflow
 
-### Day 3: Express.js Framework Fundamentals
+### Express.js Framework Fundamentals
 
 #### Express.js Basics
 - What is Express.js and why use it
@@ -110,7 +110,7 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 - Basic templating with EJS/Handlebars
 - Rendering dynamic content
 
-### Day 4: Advanced Express & API Design
+### Advanced Express & API Design
 
 #### RESTful API Design
 - REST principles and constraints
@@ -147,7 +147,7 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 - Mocking and stubbing
 - Test environment setup
 
-### Day 5: MongoDB Fundamentals
+### MongoDB Fundamentals
 
 #### NoSQL & MongoDB Concepts
 - NoSQL vs SQL databases
@@ -184,7 +184,7 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 - Schema design patterns
 - Data normalization vs denormalization
 
-### Day 6: Mongoose ODM & Advanced Database Operations
+### Mongoose ODM & Advanced Database Operations
 
 #### Mongoose Fundamentals
 - What is Mongoose and ODM concept
@@ -220,7 +220,7 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 - Complex data processing
 - Performance considerations
 
-### Day 7: Authentication & Authorization
+### Authentication & Authorization
 
 #### Password Security
 - Password hashing concepts
@@ -257,7 +257,7 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 - Cookie security (httpOnly, secure, sameSite)
 - Cross-site request forgery (CSRF) protection
 
-### Day 8: Security & Best Practices
+### Security & Best Practices
 
 #### API Security
 - Rate limiting and DDoS protection
@@ -294,9 +294,9 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 - Documentation automation
 - Version control for APIs
 
-### Day 9: Testing, Deployment & Production
+### Testing, Deployment & Production
 
-> **Note:** Day 9 content will be added as the workshop progresses.
+> **Note:** This content will be added as the workshop progresses.
 
 ## Prerequisites
 
@@ -345,18 +345,18 @@ By the end of this workshop, you will be able to:
 
 ```
 ITSNP-BackendWorkshop/
-├── day-01/          # Node.js Fundamentals
-├── day-02/          # HTTP Server & Async Programming
-├── day-03/          # Express.js Fundamentals
-├── day-04/          # Advanced Express & API Design
-├── day-05/          # MongoDB Fundamentals
-├── day-06/          # Mongoose ODM
-├── day-07/          # Authentication & Authorization
-├── day-08/          # Security & Best Practices
-├── day-09/          # Testing, Deployment & Production
-├── projects/        # Hands-on projects
-├── resources/       # Additional learning materials
-└── README.md        # This file
+├── node-js-fundamentals/          # Node.js Fundamentals
+├── http-server-async/             # HTTP Server & Async Programming
+├── express-fundamentals/          # Express.js Fundamentals
+├── advanced-express-api/          # Advanced Express & API Design
+├── mongodb-fundamentals/          # MongoDB Fundamentals
+├── mongoose-odm/                  # Mongoose ODM
+├── authentication/                # Authentication & Authorization
+├── security-best-practices/       # Security & Best Practices
+├── testing-deployment/            # Testing, Deployment & Production
+├── projects/                      # Hands-on projects
+├── resources/                     # Additional learning materials
+└── README.md                      # This file
 ```
 
 ## Contributing
