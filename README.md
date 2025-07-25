@@ -141,8 +141,6 @@ This workshop is designed to take you from Node.js fundamentals to building prod
 - Graceful error responses
 
 #### Testing Express Applications
-- Testing frameworks (Jest, Mocha)
-- Supertest for API testing
 - Testing middleware and routes
 - Mocking and stubbing
 - Test environment setup
