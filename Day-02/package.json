@@ -1,0 +1,15 @@
+{
+  "name": "day-02",
+  "version": "1.0.0",
+  "description": "This is day 02 of backend workshop",
+  "license": "ISC",
+  "author": "RKrishna",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
